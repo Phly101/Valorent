@@ -1,0 +1,10 @@
+flutter_native_splash:
+  color: "#06111C"
+  image: assets/splash_assets/Splash_screen_valo_logo.png
+  branding: assets/splash_assets/Splash_logo_branding.png
+  branding_bottom_padding: 24
+  android_12:
+    color: "#06111C"
+    image: assets/splash_assets/Splash_screen_valo_logo.png
+    branding: assets/splash_assets/Splash_logo_branding.png
+    branding_bottom_padding: 24
